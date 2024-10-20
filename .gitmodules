@@ -1,0 +1,6 @@
+[submodule "SENN"]
+	path = SENN
+	url = https://github.com/AmanDaVinci/SENN.git
+[submodule "nlparam"]
+	path = nlparam
+	url = https://github.com/ruiqi-zhong/nlparam.git
